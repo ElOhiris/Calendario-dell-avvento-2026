@@ -1,0 +1,13 @@
+CALENDARIO DELL'AVVENTO
+
+Cartelle da riempire:
+  img/calendario.jpg     -> l'immagine quadrata del calendario
+  img/giorni/01.jpg ...  -> le immagini che compaiono sotto ogni casella aperta (una per giorno)
+
+Cosa modificare: solo js/config.js (playlist, link 2025, contenuti dei 25 giorni).
+
+Provare in locale: in Visual Studio Code installa l'estensione "Live Server",
+clic destro su index.html > "Open with Live Server".
+Per simulare una data: indirizzo?data=2026-12-10  (es. http://127.0.0.1:5500/index.html?data=2026-12-10)
+
+Pubblicare: carica l'INTERA cartella sul tuo hosting (FTP o File Manager), per esempio in /avvento/.
