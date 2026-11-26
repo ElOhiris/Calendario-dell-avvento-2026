@@ -21,17 +21,40 @@ const GIORNI = {
     immagine: "img/giorni/01.jpg",
     video: "",                                  // es. "https://www.youtube.com/watch?v=XXXXXXXXXXX"
     articolo: [
-      "Buon primo dicembre! Qui va il testo dell'articolo dedicato alla sorpresa di oggi.",
-      "Ogni riga di questa lista diventa un paragrafo."
+      "Erano tanti i titoli con cui avrei voluto aprire questo calendario dell’avvento, ma nel momento in cui ho deciso che avrei fatto tutto il calendario di copie fisiche c’era un titolo solo che persisteva nella mia mente: Tarzan per PS1.",
+
+"Ho giocato per la prima volta a questo titolo all’incirca nel 2006 e me ne sono innamorata, non solo perchè potevo davvero vivere l’avventura di uno dei miei cartoni preferiti, ma perchè è stato il primo modo in cui approcciavo ai videogiochi e un platform, continuerò sempre a dirlo, è una scelta perfetta da far giocare a un bambino come primo approccio a questo mondo. Poi da grande l’ho sempre ricordato con tenera nostalgia, seppur non l’ho mai finito per colpa dell’assenza di una memory card. Quando poi ho dovuto stilare la lista dei gamemas di quest’anno, il primo titolo che ho detto è stato propio Tarzan, ed eccoci qui cari amici a iniziare questo nuovo calenario per tutti noi nerd con una chicca vecchia, ma sempre gradita.",
+
+"La storia è semplice: entarndo  nei panni di Tarzan dobbiamo superare ostacoli e sfide prorpio come nel lungometraggio, partendo dalla sua tenera età di ragazzo curioso e super dinamico fino ad arrivare all’età adulta per sconfiggere i principali nemici presenti anche nel film, come il cacciatore Clayton. Ogni capitolo del gioco è intervallato da spezzoni del film, con anche la presenza delle iconiche canzoni disney, che rendono indubbiamente l’atmosfera ancora più magica. Se visto dagli occhi di un bambino può sembrare di vivere davvero quella storia che fino a poco prima era solo narrazione senza interazione, visto da un adulto questo titolo ti riporta indietro nel tempo ai classici giochi platform dove ogni livello cresceva di difficoltà e la sfida non è solo salti perfetti e attacchi impeccabili, ma anche l’esplorazione per completare il gioco.", 
+
+"Un’aspetto del gameplay che mi è piaciuto e inizialmente non mi aspettavo è la varietà di ambienti da espolare non solo in 2D, ma anche con un 2.5D, che devo dire rende la ricerca di oggetti molto dinamica e particolare se pensiamo ai classici platform.",
+
+"Spero che questo viaggio vi piaccia e che possiate trovare il prossimo videogioco da mettere in wish list", 
+
+"Grazie e buoni gamemas!",
+
+"tarzan: 1999 - platform basato sulla storia dell’omonimo film - piattaforme: ps1, nintendo 64, game boy color, microsoft windows - pubblicato da diverse aziende a seconda del paese e piattaforma: konami per il giappone, sony computer entertainment, activision e disney interactive."
+      
     ]
   },
   2: {
-    titolo: "Si comincia!",
+    titolo: "Secondo giorno, un novo mondo!",
     immagine: "img/giorni/02.jpg",
     video: "",                                  // es. "https://www.youtube.com/watch?v=XXXXXXXXXXX"
     articolo: [
-      "Buon primo dicembre! Qui va il testo dell'articolo dedicato alla sorpresa di oggi.",
-      "Ogni riga di questa lista diventa un paragrafo."
+      "Lo devo confessare, questo gioco non è stato in lista fino a due giorni prima della registrazione. Al suo posto ci sarebbe dovuto essere un altro titolo davvero iconico per quegli anni (non lo spoilero, non si sa mai che l’anno prossimo lo riesca a trovare), quindi quando sono andata a cercare videogiochi ps1 ho trovato Il pianeta del tesoro e l’ho provato subito assieme a voi.",
+
+"Il film visto e rivisto quando ero piccola già mi aveva rapita con “viaggi nello spazio” e “pirati”, ovviamente più di vent’anni dopo dovevo assolutamente provare la versione del videogioco.",
+
+"Come Tarzan, e tutti i giochi di quella generazione basata sui lungometraggi animati, riprende scene e personaggi già visti su schermo, ma dando la possibilità di vivere più attivamente le loro avventure, attraverso esplorazioni ambientali, combattimenti enigmi e la continua scoperta di oggetti che prima o poi saranno utili.",
+
+"Forse un pochino macchinoso, almeno per me che sono più abituata a una reattività più fluida, ma indubbiamente una chicca per chi volesse recuperare un bel titolo tra stelle e pirati, che diciamolo sono tematiche e ambienti che attirano sempre noi giocatori.",
+
+"Ciurma! Il viaggio è appena partito e non vedo l’ora di attraccare in un altro mondo videoludico.",
+
+"Grazie e buoni gamemas!",
+
+"Il pianeta del tesoro: 2002 - azione e avventura basato sulla storia dell’omonimo film - piattaforme: ps1 - prodotto da Disney Interactive e pubblicato da Sony."
     ]
   },
   3: {
